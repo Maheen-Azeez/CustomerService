@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "E:\\CustomerService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF28DE3D-A035-4AD7-BCDE-CEA2F9DBF8D3}|CustomerService.Infrastructure\\CustomerService.Infrastructure.csproj|e:\\customerservice\\customerservice.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF28DE3D-A035-4AD7-BCDE-CEA2F9DBF8D3}|CustomerService.Infrastructure\\CustomerService.Infrastructure.csproj|solutionrelative:customerservice.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF28DE3D-A035-4AD7-BCDE-CEA2F9DBF8D3}|CustomerService.Infrastructure\\CustomerService.Infrastructure.csproj|e:\\customerservice\\customerservice.infrastructure\\datas\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF28DE3D-A035-4AD7-BCDE-CEA2F9DBF8D3}|CustomerService.Infrastructure\\CustomerService.Infrastructure.csproj|solutionrelative:customerservice.infrastructure\\datas\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AF28DE3D-A035-4AD7-BCDE-CEA2F9DBF8D3}|CustomerService.Infrastructure\\CustomerService.Infrastructure.csproj|e:\\customerservice\\customerservice.infrastructure\\configuration\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF28DE3D-A035-4AD7-BCDE-CEA2F9DBF8D3}|CustomerService.Infrastructure\\CustomerService.Infrastructure.csproj|solutionrelative:customerservice.infrastructure\\configuration\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B7FE072-760F-460E-8494-06BEF94712E2}|CustomerService.Api\\CustomerService.API.csproj|e:\\customerservice\\customerservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B7FE072-760F-460E-8494-06BEF94712E2}|CustomerService.Api\\CustomerService.API.csproj|solutionrelative:customerservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B7FE072-760F-460E-8494-06BEF94712E2}|CustomerService.Api\\CustomerService.API.csproj|e:\\customerservice\\customerservice.api\\customerservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2B7FE072-760F-460E-8494-06BEF94712E2}|CustomerService.Api\\CustomerService.API.csproj|solutionrelative:customerservice.api\\customerservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B7FE072-760F-460E-8494-06BEF94712E2}|CustomerService.Api\\CustomerService.API.csproj|e:\\customerservice\\customerservice.api\\middlewares\\globalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B7FE072-760F-460E-8494-06BEF94712E2}|CustomerService.Api\\CustomerService.API.csproj|solutionrelative:customerservice.api\\middlewares\\globalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,80 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerService.API",
-              "DocumentMoniker": "E:\\CustomerService\\CustomerService.Api\\CustomerService.API.csproj",
-              "RelativeDocumentMoniker": "CustomerService.Api\\CustomerService.API.csproj",
-              "ToolTip": "E:\\CustomerService\\CustomerService.Api\\CustomerService.API.csproj",
-              "RelativeToolTip": "CustomerService.Api\\CustomerService.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-29T10:36:51.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "E:\\CustomerService\\CustomerService.Infrastructure\\Repositories\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "CustomerService.Infrastructure\\Repositories\\CustomerRepository.cs",
-              "ToolTip": "E:\\CustomerService\\CustomerService.Infrastructure\\Repositories\\CustomerRepository.cs",
-              "RelativeToolTip": "CustomerService.Infrastructure\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAkwDMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T10:35:16.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\CustomerService\\CustomerService.Infrastructure\\Datas\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "CustomerService.Infrastructure\\Datas\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\CustomerService\\CustomerService.Infrastructure\\Datas\\ApplicationDbContext.cs",
-              "RelativeToolTip": "CustomerService.Infrastructure\\Datas\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T10:35:03.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "E:\\CustomerService\\CustomerService.Infrastructure\\Configuration\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "CustomerService.Infrastructure\\Configuration\\DependencyInjection.cs",
               "ToolTip": "E:\\CustomerService\\CustomerService.Infrastructure\\Configuration\\DependencyInjection.cs",
               "RelativeToolTip": "CustomerService.Infrastructure\\Configuration\\DependencyInjection.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T10:24:42.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\CustomerService\\CustomerService.API\\Program.cs",
-              "RelativeDocumentMoniker": "CustomerService.API\\Program.cs",
-              "ToolTip": "E:\\CustomerService\\CustomerService.API\\Program.cs",
-              "RelativeToolTip": "CustomerService.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T10:24:42.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GlobalExceptionHandlingMiddleware.cs",
-              "DocumentMoniker": "E:\\CustomerService\\CustomerService.API\\Middlewares\\GlobalExceptionHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "CustomerService.API\\Middlewares\\GlobalExceptionHandlingMiddleware.cs",
-              "ToolTip": "E:\\CustomerService\\CustomerService.API\\Middlewares\\GlobalExceptionHandlingMiddleware.cs",
-              "RelativeToolTip": "CustomerService.API\\Middlewares\\GlobalExceptionHandlingMiddleware.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAkwCYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T10:24:42.551Z",
+              "WhenOpened": "2025-03-29T13:51:57.987Z",
               "EditorCaption": ""
             }
           ]

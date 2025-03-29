@@ -12,6 +12,7 @@ E:\CustomerService\CustomerService.Application\obj\Debug\net6.0\CustomerService.
 E:\CustomerService\CustomerService.Application\obj\Debug\net6.0\CustomerService.Application.AssemblyInfoInputs.cache
 E:\CustomerService\CustomerService.Application\obj\Debug\net6.0\CustomerService.Application.AssemblyInfo.cs
 E:\CustomerService\CustomerService.Application\obj\Debug\net6.0\CustomerService.Application.csproj.CoreCompileInputs.cache
+E:\CustomerService\CustomerService.Application\obj\Debug\net6.0\CustomerService.Application.sourcelink.json
 E:\CustomerService\CustomerService.Application\obj\Debug\net6.0\Customer.5E348D38.Up2Date
 E:\CustomerService\CustomerService.Application\obj\Debug\net6.0\CustomerService.Application.dll
 E:\CustomerService\CustomerService.Application\obj\Debug\net6.0\refint\CustomerService.Application.dll

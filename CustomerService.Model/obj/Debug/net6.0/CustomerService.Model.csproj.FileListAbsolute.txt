@@ -8,6 +8,7 @@ E:\CustomerService\CustomerService.Model\obj\Debug\net6.0\CustomerService.Model.
 E:\CustomerService\CustomerService.Model\obj\Debug\net6.0\CustomerService.Model.AssemblyInfoInputs.cache
 E:\CustomerService\CustomerService.Model\obj\Debug\net6.0\CustomerService.Model.AssemblyInfo.cs
 E:\CustomerService\CustomerService.Model\obj\Debug\net6.0\CustomerService.Model.csproj.CoreCompileInputs.cache
+E:\CustomerService\CustomerService.Model\obj\Debug\net6.0\CustomerService.Model.sourcelink.json
 E:\CustomerService\CustomerService.Model\obj\Debug\net6.0\Customer.24B1A020.Up2Date
 E:\CustomerService\CustomerService.Model\obj\Debug\net6.0\CustomerService.Model.dll
 E:\CustomerService\CustomerService.Model\obj\Debug\net6.0\refint\CustomerService.Model.dll

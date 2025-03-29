@@ -11,7 +11,6 @@
           "CustomerService.Model": "1.0.0",
           "CustomerService.Shared": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.25",
-          "Microsoft.EntityFrameworkCore.Design": "6.0.25",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.25",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.25",
           "Microsoft.Extensions.Configuration": "6.0.1"

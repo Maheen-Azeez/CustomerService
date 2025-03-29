@@ -5,6 +5,7 @@ E:\CustomerService\CustomerService.Shared\obj\Debug\net6.0\CustomerService.Share
 E:\CustomerService\CustomerService.Shared\obj\Debug\net6.0\CustomerService.Shared.AssemblyInfoInputs.cache
 E:\CustomerService\CustomerService.Shared\obj\Debug\net6.0\CustomerService.Shared.AssemblyInfo.cs
 E:\CustomerService\CustomerService.Shared\obj\Debug\net6.0\CustomerService.Shared.csproj.CoreCompileInputs.cache
+E:\CustomerService\CustomerService.Shared\obj\Debug\net6.0\CustomerService.Shared.sourcelink.json
 E:\CustomerService\CustomerService.Shared\obj\Debug\net6.0\CustomerService.Shared.dll
 E:\CustomerService\CustomerService.Shared\obj\Debug\net6.0\refint\CustomerService.Shared.dll
 E:\CustomerService\CustomerService.Shared\obj\Debug\net6.0\CustomerService.Shared.pdb
