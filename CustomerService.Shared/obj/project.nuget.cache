@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "R+kLkpTRXexaFRJhog8WkkCxZ+jeg1LtkHgJ0iYQ1VGHsYxr0qe7eVlEZDXD8ZancIzdKFzSaqqsb9261cU6MQ==",
+  "success": true,
+  "projectFilePath": "E:\\CustomerService\\CustomerService.Shared\\CustomerService.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahee\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\mahee\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\mahee\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
